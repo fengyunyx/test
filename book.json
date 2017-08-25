@@ -13,10 +13,7 @@
       "css": ["custom.css"]
     },
     "download-pdf-link": {
-      "base": "https://www.gitbook.com/book/fusioninsight/test/",
-      "label": {
-          "en": "Download PDF"
-      }
+      "base": "https://www.gitbook.com/book/fusioninsight/test/"
     }
   }
 }
