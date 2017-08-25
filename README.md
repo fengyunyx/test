@@ -2,7 +2,7 @@
 
 # FusionInsight生态地图
 
-FusionInsight支持开源标准的Hadoop接口，可以与以下第三方工具进行对接
+FusionInsight支持开源标准的Hadoop接口，可以与以下第三方工具进行对接.
 
 ## 数据可视化
 
