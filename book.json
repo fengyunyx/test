@@ -3,7 +3,7 @@
   "author": "Openlab",
   "language": "zh-hans",
   "plugins": [
-    "-sharing", "-lunr", "-search", "search-pro", "anchor-navigation-ex", "toggle-chapters", "addcssjs","download-pdf-link"
+    "-fontsettings", "-sharing", "-lunr", "-search", "search-pro", "anchor-navigation-ex", "toggle-chapters", "addcssjs", "download-chapter"
   ],
   "pluginsConfig": {
     "anchor-navigation-ex": {
@@ -11,9 +11,6 @@
     },
     "addcssjs": {
       "css": ["custom.css"]
-    },
-    "download-pdf-link": {
-      "base": "https://www.gitbook.com/book/fusioninsight/test/"
     }
   }
 }
